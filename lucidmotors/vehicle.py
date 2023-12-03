@@ -528,7 +528,7 @@ class Wheels(str, Enum):
 
 class Battery(str, Enum):
     # Absolutely no idea what these mean, but I know they're accurate!
-    TYPE_01 = 'BATTERY_TYPE_01'  # Pure battery?
+    TYPE_01 = 'BATTERY_TYPE_01'  # Touring Battery
     TYPE_02 = 'BATTERY_TYPE_02'  # GT Battery?
     TYPE_03 = 'BATTERY_TYPE_03'
     TYPE_04 = 'BATTERY_TYPE_04'
